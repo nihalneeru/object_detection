@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/fri/object_detection/catkin_ws/install/setup.sh
