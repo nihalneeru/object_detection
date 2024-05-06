@@ -48,7 +48,7 @@ Contributions to this project are welcome! Please submit pull requests or create
 
 ## Acknowledgements
 
-- Dr. Ben Abbattemateo for providing us with a workspace in the lab along with the ROS and RealSense technology.
+- Dr. Ben Abbatematteo for providing us with a workspace in the lab along with the ROS and RealSense technology.
 - YOLOv5 / YOLOv8 by Ultralytics for the object detection model.
 - EfficientDet / SSD-Mobilenet by Google for the object detection model.
 - Faster R-CNN / Mask R-CNN by Ross Girshick et al. for the object detection model.
