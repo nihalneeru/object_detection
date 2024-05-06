@@ -1,6 +1,6 @@
 # ROS-YOLOv5 Object Detection
 
-This repository contains the implementation of a ROS wrapper for the YOLOv5 object detection model, integrated with an Intel RealSense 2.0 camera for real-time object detection in robotic applications. This project aims to provide a robust system for detecting and identifying objects with high accuracy and speed, suitable for a variety of robotic tasks.
+This repository contains the implementation of a ROS wrapper for the YOLOv5 object detection model, integrated with an Intel RealSense D435 camera for real-time object detection in robotic applications. This project aims to provide a robust system for detecting and identifying objects with high accuracy and speed, suitable for a variety of robotic tasks.
 
 ## Features
 
@@ -48,10 +48,10 @@ Contributions to this project are welcome! Please submit pull requests or create
 
 ## Acknowledgements
 
-- Dr. Ben Abbatematteo for providing us with a workspace in the lab along with the ROS and RealSense technology.
+- Dr. Ben Abbatematteo for providing us with a workspace in the lab along with the ROS and RealSense camera.
 - YOLOv5 / YOLOv8 by Ultralytics for the object detection model.
 - EfficientDet / SSD-Mobilenet by Google for the object detection model.
 - Faster R-CNN / Mask R-CNN by Ross Girshick et al. for the object detection model.
 - ROS community for the extensive tools and libraries.
-- Intel for the RealSense technology.
+- Intel for the RealSense D435 camera.
 
