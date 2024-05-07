@@ -36,7 +36,7 @@ This repository contains the implementation of a ROS wrapper for the YOLOv5 obje
    roscore
 3. **Run the object detection node**:
    ```bash
-   rosrun ros_yolov5 object_detector.py
+   rosrun src/yolov5_ros/scripts/detect.py
 
 ## Configuration
 
