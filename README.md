@@ -9,6 +9,8 @@ This repository contains the implementation of a ROS wrapper for the YOLOv5 obje
 - **Graphical User Interface (GUI)**: Real-time display of detected objects with bounding boxes, labels, and confidence scores.
 - **Publisher Node**: A ROS publisher node that broadcasts detailed object information to other ROS nodes.
 - **Multiple Model Support**: Tested with several leading object detection models including YOLOv8, EfficientDet, SSD-Mobilenet, Faster R-CNN, and Mask R-CNN.
+- **Fine-Tuned Model**: Upload the .ipynb file to Google Colab and run it there to test the transfer learning model.
+
 
 ## Installation
 
